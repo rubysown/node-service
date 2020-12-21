@@ -1,0 +1,23 @@
+{
+  "name": "@rubysown/node-service",
+  "version": "0.1.0",
+  "description": "Easily access service and process stats for services",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "dependencies": {
+    "escape-quotes": "^1.0.2",
+    "filesize": "^6.1.0",
+    "promisify-child-process": "^4.1.1",
+    "ps-node": "^0.1.6"
+  }
+}
