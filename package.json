@@ -1,7 +1,9 @@
 {
   "name": "@rubysown/node-service",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily access service and process stats for services",
+  "keywords": ["systemctl", "systemd", "memory", "service", "stat", "process"],
+  "homepage": "http://github.com/rubysown/node-service",
   "main": "index.js",
   "scripts": {},
   "author": "",

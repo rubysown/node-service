@@ -1,5 +1,5 @@
 # node-service
-Node.JS module to help making grab process & service information
+Node.JS module to help easily access service and process stats for services
 
 ## Requirements:
 * Linux
